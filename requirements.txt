@@ -1,7 +1,7 @@
 numpy
 matplotlib
 opencv-python
+cvzone
 torch
 torchvision
 ultralytics
-simple_image_download
