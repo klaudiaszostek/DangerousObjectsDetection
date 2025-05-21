@@ -8,4 +8,4 @@ Python application that detects dangerous objects (e.g. knives, guns) from a cam
 2. Requirements
    > pip install -r requirements.txt
 3. Training the model
-
+4. Object detection in images, video and camera stream
